@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO before launch: replace www.your-domain.com with the real domain. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://digifixstudio.site/</loc></url>
+  <url><loc>https://digifixstudio.site/services</loc></url>
+  <url><loc>https://digifixstudio.site/work</loc></url>
+  <url><loc>https://digifixstudio.site/work/brand-identity-concept</loc></url>
+  <url><loc>https://digifixstudio.site/work/business-website-concept</loc></url>
+  <url><loc>https://digifixstudio.site/work/social-media-post-series</loc></url>
+  <url><loc>https://digifixstudio.site/work/promotional-poster-concept</loc></url>
+  <url><loc>https://digifixstudio.site/work/landing-page-concept</loc></url>
+  <url><loc>https://digifixstudio.site/work/logo-system-concept</loc></url>
+  <url><loc>https://digifixstudio.site/contact</loc></url>
+  <url><loc>https://digifixstudio.site/privacy-policy</loc></url>
+  <url><loc>https://digifixstudio.site/terms-and-conditions</loc></url>
+</urlset>

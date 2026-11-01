@@ -1,0 +1,6 @@
+.rotator {
+  display: inline-block;
+  min-width: 6ch; /* width jump na ho */
+  transition: opacity .4s;
+}
+.rotator.fade { opacity: 0; }

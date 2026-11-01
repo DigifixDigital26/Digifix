@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "Logo-Design-concept",
+    "title": "Lure Logo Design Concept",
+    "category": "Brand Identity",
+    "shortDescription": "Modern clothing brand identity blending style, elegance, and individuality.",
+    "description": "A modern clothing brand identity designed for Lure, combining style, elegance, and contemporary fashion aesthetics. The logo reflects the brand's unique personality while creating a bold and memorable visual identity.",
+    "image": "/projects/Lure.svg",
+    "imageAlt": "Placeholder artwork for a logo project",
+    "services": [
+      "Logo design",
+      "Brand identity"
+    ],
+    "featured": true,
+    "order": 1,
+    "isPlaceholder": true
+  },
+  {
+    "slug": "Portfolio-website-concept",
+    "title": "Portfolio Website Concept",
+    "category": "Web Development",
+    "shortDescription": "A modern portfolio showcasing creativity, skills, and projects.",
+    "description": "A modern, responsive portfolio website built to showcase creative work, skills, and projects through a clean layout, smooth animations, and an elegant user experience. Designed with a focus on minimal aesthetics, functionality, and visual storytelling.",
+    "image": "/projects/Portfolio.svg",
+    "liveLink": "https://portfolio-framer.onrender.com/",
+    "imageAlt": "Placeholder artwork for a website project",
+    "services": [
+      "Responsive frontend development"
+    ],
+    "featured": true,
+    "order": 2,
+    "isPlaceholder": true
+  },
+
+  {
+    "slug": "promotional-poster-concept",
+    "title": "Promotional Poster Concept",
+    "category": "Graphic Design",
+    "shortDescription": "Creative posters combining impactful visuals, typography, and brand messaging.",
+    "description": "Promotional poster designs crafted to highlight products, services, and special offers through visually engaging layouts. Combining creative typography, strategic color choices, and impactful visuals to attract attention, strengthen brand identity, and deliver clear marketing messages.",
+    "image": "/projects/placeholder-4.svg",
+    "imageAlt": "Placeholder artwork for a graphic design project",
+    "services": [
+      "Marketing posters",
+      "Promotional graphics"
+    ],
+    "featured": true,
+    "order": 4,
+    "isPlaceholder": true
+  },
+  {
+    "slug": "Full-Stack-Website-Concept",
+    "title": "Full Stack Website Concept",
+    "category": "Web Development",
+    "shortDescription": "A LMS featuring interactive courses, dashboards, and an AI-powered chatbot.",
+    "description": "Learnify is a modern Learning Management System (LMS) designed to make online education easier and more engaging. It features interactive courses, personalized user dashboards, progress tracking, and an integrated AI-powered chatbot to assist learners with their queries and learning experience.",
+    "image": "/projects/Lernify.svg",
+    "imageAlt": "Placeholder artwork for a full stack website project",
+    "services": [
+      "Full stack development",
+      "Responsive frontend development"
+    ],
+    "featured": false,
+    "order": 5,
+    "isPlaceholder": true
+  },
+  {
+    "slug": "logo-system-concept",
+    "title": "Logo System Concept",
+    "category": "Brand Identity",
+    "shortDescription": "Modern identity showcasing durable UPVC door and window solutions.",
+    "description": "A professional brand identity reflecting durability, precision, and modern UPVC door and window solutions.",
+    "image": "/projects/RD Full Logo.svg",
+    "imageAlt": "Placeholder artwork for a logo project",
+    "services": [
+      "Logo design",
+      "Digital brand assets"
+    ],
+    "featured": false,
+    "order": 6,
+    "isPlaceholder": true
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "brand-identity-concept",
+    "title": "Brand Identity Concept",
+    "category": "Brand Identity",
+    "shortDescription": "Placeholder entry. Replace with a real brand identity project before launch.",
+    "description": "This is a placeholder entry and does not represent real client work. Replace the title, description, services and image with an actual project, then set isPlaceholder to false.",
+    "image": "/projects/placeholder-1.svg",
+    "imageAlt": "Placeholder artwork for a brand identity project",
+    "services": [
+      "Logo design",
+      "Brand identity"
+    ],
+    "featured": true,
+    "order": 1,
+    "isPlaceholder": true
+  },
+  {
+    "slug": "business-website-concept",
+    "title": "Business Website Concept",
+    "category": "Web Development",
+    "shortDescription": "Placeholder entry. Replace with a real website project before launch.",
+    "description": "This is a placeholder entry and does not represent real client work. Replace the title, description, services and image with an actual project, then set isPlaceholder to false.",
+    "image": "/projects/placeholder-2.svg",
+    "imageAlt": "Placeholder artwork for a website project",
+    "services": [
+      "Responsive frontend development",
+      "Backend integration"
+    ],
+    "featured": true,
+    "order": 2,
+    "isPlaceholder": true
+  },
+  {
+    "slug": "social-media-post-series",
+    "title": "Social Media Post Series",
+    "category": "Social Media Design",
+    "shortDescription": "Placeholder entry. Replace with a real social media design project before launch.",
+    "description": "This is a placeholder entry and does not represent real client work. Replace the title, description, services and image with an actual project, then set isPlaceholder to false.",
+    "image": "/projects/placeholder-3.svg",
+    "imageAlt": "Placeholder artwork for a social media design project",
+    "services": [
+      "Social media post design",
+      "Content planning"
+    ],
+    "featured": true,
+    "order": 3,
+    "isPlaceholder": true
+  },
+  {
+    "slug": "promotional-poster-concept",
+    "title": "Promotional Poster Concept",
+    "category": "Graphic Design",
+    "shortDescription": "Placeholder entry. Replace with a real graphic design project before launch.",
+    "description": "This is a placeholder entry and does not represent real client work. Replace the title, description, services and image with an actual project, then set isPlaceholder to false.",
+    "image": "/projects/placeholder-4.svg",
+    "imageAlt": "Placeholder artwork for a graphic design project",
+    "services": [
+      "Marketing posters",
+      "Promotional graphics"
+    ],
+    "featured": true,
+    "order": 4,
+    "isPlaceholder": true
+  },
+  {
+    "slug": "landing-page-concept",
+    "title": "Landing Page Concept",
+    "category": "Web Development",
+    "shortDescription": "Placeholder entry. Replace with a real landing page project before launch.",
+    "description": "This is a placeholder entry and does not represent real client work. Replace the title, description, services and image with an actual project, then set isPlaceholder to false.",
+    "image": "/projects/placeholder-5.svg",
+    "imageAlt": "Placeholder artwork for a landing page project",
+    "services": [
+      "Landing pages",
+      "Responsive frontend development"
+    ],
+    "featured": false,
+    "order": 5,
+    "isPlaceholder": true
+  },
+  {
+    "slug": "logo-system-concept",
+    "title": "Logo System Concept",
+    "category": "Brand Identity",
+    "shortDescription": "Placeholder entry. Replace with a real logo project before launch.",
+    "description": "This is a placeholder entry and does not represent real client work. Replace the title, description, services and image with an actual project, then set isPlaceholder to false.",
+    "image": "/projects/placeholder-6.svg",
+    "imageAlt": "Placeholder artwork for a logo project",
+    "services": [
+      "Logo design",
+      "Digital brand assets"
+    ],
+    "featured": false,
+    "order": 6,
+    "isPlaceholder": true
+  }
+]

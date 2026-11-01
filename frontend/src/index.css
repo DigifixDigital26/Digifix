@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Typography classes from the brand brief */
+.cinzel {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.para {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body {
+    @apply bg-brand-cream font-body text-brand-green antialiased;
+    overflow-x: hidden;
+  }
+  h1, h2, h3 { @apply font-display font-extrabold; }
+  :focus-visible { outline: 2px solid #064E3B; outline-offset: 3px; }
+  .on-dark :focus-visible { outline-color: #D4B16D; }
+  ::selection { background: #D4B16D; color: #064E3B; }
+}
+
+@layer components {
+  .container-x { @apply mx-auto w-full max-w-6xl px-5 sm:px-8; }
+  .section-y { @apply py-16 sm:py-24; }
+  .field-input {
+    @apply w-full rounded-sm border border-brand-green/40 bg-white px-3.5 py-3 text-base text-brand-green placeholder:text-brand-green/50;
+  }
+  .field-input[aria-invalid="true"] { @apply border-red-800; }
+}
+
+/* Short fade for the mobile menu only */
+@keyframes menu-in { from { opacity: 0; } to { opacity: 1; } }
+.menu-in { animation: menu-in 150ms ease-out; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
