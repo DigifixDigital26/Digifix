@@ -1,4 +1,21 @@
 [
+  
+  {
+    "slug": "Logo-Design-concept",
+    "title": "Om Shanti Logo Design Concept",
+    "category": "Brand Identity",
+    "shortDescription": "Meaningful NGO identity promoting education, culture, environmental awareness, and positive social impact.",
+    "description": "A meaningful NGO brand identity designed to represent education, culture, and environmental sustainability. The logo reflects the organization's mission and values through a thoughtful, memorable, and impactful visual identity.",
+    "image": "/projects/Om shanti.svg",
+    "imageAlt": "Placeholder artwork for a logo project",
+    "services": [
+      "Logo design",
+      "Brand identity"
+    ],
+    "featured": true,
+    "order": 1,
+    "isPlaceholder": true
+  },
   {
     "slug": "Logo-Design-concept",
     "title": "Lure Logo Design Concept",
@@ -12,7 +29,7 @@
       "Brand identity"
     ],
     "featured": true,
-    "order": 1,
+    "order": 7,
     "isPlaceholder": true
   },
   {

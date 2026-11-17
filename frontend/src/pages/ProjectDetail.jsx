@@ -79,7 +79,7 @@ export default function ProjectDetail() {
               className="para mt-5 border-l-2 border-brand-gold pl-4 text-base"
               role="note"
             >
-              This is a placeholder entry, not a client project.
+              Design and Development with pure creativity.
             </p>
           )}
 
